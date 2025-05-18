@@ -117,7 +117,8 @@ MIT License
 ## 🙋‍♂️ Author
 
 **Harshit Varshney**
-Connect on [LinkedIn](https://www.linkedin.com/in/harshit-varshneyy/)
+Connect on [LinkedIn](https://www.linkedin.com/in/harshitvarshneyv2/)
 Explore more projects on [GitHub](https://github.com/HarshitVarshneyv)
 
 > "Career Blink isn't just a project — it's a mission to empower learners and job seekers with smart tech."
+> I have followed the best practices of Spring Boot
