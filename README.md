@@ -1,4 +1,4 @@
-# Career Blink
+# Career Blink [I have Followed the Best practices of Spring Boot in this Project]
 
 **Career Blink** is a full-stack web application designed to provide a complete placement solution platform for students and professionals. It combines the power of a Spring Boot backend with a dynamic and responsive React.js frontend to offer features such as DSA practice tracking, communication with mentors, and career management tools.
 
