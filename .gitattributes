@@ -1,0 +1,5 @@
+# Detect both frontend and backend languages
+server/** linguist-detectable=true
+client/** linguist-detectable=true
+*.java linguist-language=Java
+*.js linguist-language=JavaScript
